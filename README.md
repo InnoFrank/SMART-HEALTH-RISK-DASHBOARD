@@ -1,7 +1,7 @@
 # SMART-HEALTH-RISK-DASHBOARD
 
 # 📌 Problem Solved
-Many communities lack real-time awareness of disease risks. This project uses Excel + AI-Aided Formula Editor to forecast disease trends based on weather and health data.
+Too often, communities are caught off guard by preventable health crises due to lack of timely data insights on seasonal disease trends. This project uses Excel + AI-Aided Formula Editor (Copilot) to forecast disease trends based on weather and health data which help policymakers and health workers stay ahead of disease outbreaks.
 
 # 🧠 Key Features
 - Excel dashboard for disease risk analysis
@@ -20,7 +20,8 @@ Many communities lack real-time awareness of disease risks. This project uses Ex
 
 # 🤖 Built With
 - Microsoft Excel
-- Excel AI-Aided Formula Editor
+- Excel AI-Aided Formula Editor (Copilot)
+- And a lot of community-driven passion
 
 # 👤 Author
 Nwosu Innocent Mmaduabuchi | 3MTT Fellow | 
