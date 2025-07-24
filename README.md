@@ -24,7 +24,7 @@ Too often, communities are caught off guard by preventable health crises due to 
 - And a lot of community-driven passion
 
 # 👤 Author
-Nwosu Innocent Mmaduabuchi | 3MTT Fellow | 
+Nwosu Innocent Mmaduabuchi | 3MTT Fellow | https://www.linkedin.com/posts/innocent-mmaduabuchi-nwosu-1439b9157_3mttlearningcommunity-my3mtt-3mttnigeria-activity-7354149318259290115-ZF8q?utm_source=share&utm_medium=member_desktop&rcm=ACoAACWzlIMB76_6yZeZzRj6BvVtASmG4AtGO_s
 """
 
 insights_text = """
